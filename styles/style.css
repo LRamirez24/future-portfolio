@@ -524,12 +524,12 @@ footer h4 {
 }
 
 .intro-text2 h1 {
-    color: rgb(5, 77, 233);
+    color: #3cc4b8;
     font-size: 7rem;
 }
 
 .slider {
-    background: rgb(123, 142, 143);
+    background: #154353;
     position: fixed;
     top: 0;
     left: 0;
