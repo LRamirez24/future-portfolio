@@ -313,6 +313,8 @@ nav ul {
 
 .elena img {
     border-radius: 12px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .elena img:hover {
@@ -536,6 +538,7 @@ footer h4 {
 .intro-text2 h1 {
     color: #3cc4b8;
     font-size: 7rem;
+    text-align: center;
 }
 
 .slider {
